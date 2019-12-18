@@ -1,0 +1,1 @@
+Os arquivos dentro deste diretório foram originalmente retirados de: https://github.com/iaasweek/ansible
